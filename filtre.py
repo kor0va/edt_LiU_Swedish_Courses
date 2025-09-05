@@ -34,6 +34,7 @@ lettres = []
 for component in gcal.walk():
     if component.name == "VEVENT":
         summary = str(component.get('summary'))
+        print(summary.lower())
         match = re.search(r"Grupp (F)", summary.lower())
         if match:
             lettre = match.group(1)
