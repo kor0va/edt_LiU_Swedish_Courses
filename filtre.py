@@ -45,7 +45,7 @@ print(f"Groupes trouvés : {lettres}")
 
 for lettre in lettres:
     # 2️⃣ Filtrer les événements
-    print("Filtrage des événements...")
+    print(f"Filtrage des événements du groupe {lettre.upper()}...")
     with open(f"{REPO_PATH}/{LOCAL_ICS}_complet.ics", "rb") as f:
         gcal = Calendar.from_ical(f.read())
 
@@ -56,7 +56,7 @@ for lettre in lettres:
     for component in gcal.walk():
         if component.name == "VEVENT":
             summary = str(component.get('summary'))
-            if lettre.lower() in summary.lower():
+            if f"grupp {lettre.lower()}" in summary.lower():
                 new_cal.add_component(component)
 
     # Écraser le fichier local avec le calendrier filtré
