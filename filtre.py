@@ -2,12 +2,13 @@ import requests
 from icalendar import Calendar
 import subprocess
 import os
+import re
 
 # ------------- CONFIG -------------
 GIT_PATH = "/usr/bin/git"
 REPO_PATH = "/home/arthur/App/batchs/edt_LiU_Swedish_Courses"  # chemin du repo
 ICS_URL = "https://cloud.timeedit.net/liu/web/schema/s/s.ics?i=60Z956X35Z04Q6Z76g8Y00y6036Y59n04gQY6Q547395Q14"  # URL du fichier ICS original
-LOCAL_ICS = "/home/arthur/App/batchs/edt_LiU_Swedish_Courses/edt_filtre.ics"           # fichier local
+LOCAL_ICS = "edt_filtre"           # fichier local
 GIT_COMMIT_MSG = "Mise à jour de l'emploi du temps filtré"
 FILTER_KEYWORD = "Grupp F"             # mot-clé pour filtrer les événements
 # ----------------------------------
@@ -19,29 +20,54 @@ if response.status_code != 200:
     raise Exception(f"Erreur lors du téléchargement : {response.status_code}")
 
 # Sauvegarde du fichier téléchargé
-with open(LOCAL_ICS, "wb") as f:
+with open(f"{REPO_PATH}/{LOCAL_ICS}_complet.ics", "wb") as f:
     f.write(response.content)
 print("Fichier téléchargé et sauvegardé.")
 
-# 2️⃣ Filtrer les événements
-print("Filtrage des événements...")
-with open(LOCAL_ICS, "rb") as f:
+
+# recuperer les groupes
+print("Récupération des groupes...")
+with open(f"{REPO_PATH}/{LOCAL_ICS}_complet.ics", "rb") as f:
     gcal = Calendar.from_ical(f.read())
 
-new_cal = Calendar()
-new_cal.add('prodid', '-//Agenda filtré//')
-new_cal.add('version', '2.0')
-
+lettres = []
 for component in gcal.walk():
     if component.name == "VEVENT":
         summary = str(component.get('summary'))
-        if FILTER_KEYWORD.lower() in summary.lower():
-            new_cal.add_component(component)
+        match = re.search(r"Grupp (\w)", summary.lower())
+        if match:
+            lettre = match.group(1)
+            if not lettre in lettres:
+                lettres.append(lettre)
+lettres.sort()
+print(f"Groupes trouvés : {lettres}")
 
-# Écraser le fichier local avec le calendrier filtré
-with open(LOCAL_ICS, "wb") as f:
-    f.write(new_cal.to_ical())
-print(f"Fichier filtré sauvegardé : {LOCAL_ICS}")
+
+
+for lettre in lettres:
+    # 2️⃣ Filtrer les événements
+    print("Filtrage des événements...")
+    with open(f"{REPO_PATH}/{LOCAL_ICS}_complet.ics", "rb") as f:
+        gcal = Calendar.from_ical(f.read())
+
+    new_cal = Calendar()
+    new_cal.add('prodid', '-//Agenda filtré//')
+    new_cal.add('version', '2.0')
+
+    for component in gcal.walk():
+        if component.name == "VEVENT":
+            summary = str(component.get('summary'))
+            if lettre.lower() in summary.lower():
+                new_cal.add_component(component)
+
+    # Écraser le fichier local avec le calendrier filtré
+    with open(f"{REPO_PATH}/{LOCAL_ICS}_{lettre.upper()}.ics", "wb") as f:
+        f.write(new_cal.to_ical())
+    print(f"Fichier filtré sauvegardé : {f"{REPO_PATH}/{LOCAL_ICS}_{lettre.upper()}.ics"}")
+
+
+
+
 
 # 3️⃣ Commit + push automatique sur Git
 print("Synchronisation avec GitHub...")
