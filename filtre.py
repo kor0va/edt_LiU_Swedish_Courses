@@ -71,13 +71,26 @@ for lettre in lettres:
 # 3️⃣ Commit + push automatique sur Git
 print("Synchronisation avec GitHub...")
 try:
-    # Ajouter le fichier
-    subprocess.run([GIT_PATH, "-C", REPO_PATH, "add", f"{REPO_PATH}/*"], check=True)
-    # Commit
-    subprocess.run([GIT_PATH, "-C", REPO_PATH, "commit", "-m", GIT_COMMIT_MSG])
-    # Push
-    subprocess.run([GIT_PATH, "-C", REPO_PATH, "push"], check=True)
+    ssh_cmd = '/home/arthur/.ssh/git_key'
 
+    # Ajouter tous les fichiers modifiés
+    subprocess.run(
+        f"GIT_SSH_COMMAND='ssh -i {ssh_cmd} -o IdentitiesOnly=yes' git -C {REPO_PATH} add {REPO_PATH}/*",
+        shell=True,
+        check=True
+    )
+    # Commit
+    subprocess.run(
+        f"GIT_SSH_COMMAND='ssh -i {ssh_cmd} -o IdentitiesOnly=yes' git -C {REPO_PATH} commit -m \"{GIT_COMMIT_MSG}\"",
+        shell=True,
+        check=True
+    )
+    # Push
+    subprocess.run(
+        f"GIT_SSH_COMMAND='ssh -i {ssh_cmd} -o IdentitiesOnly=yes' git -C {REPO_PATH} push",
+        shell=True,
+        check=True
+    )
 except subprocess.CalledProcessError as e:
     print("Erreur Git :", e)
     print("Peut-être qu'il n'y a pas de changements à committer.")
