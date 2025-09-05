@@ -10,7 +10,6 @@ REPO_PATH = "/home/arthur/App/batchs/edt_LiU_Swedish_Courses"  # chemin du repo
 ICS_URL = "https://cloud.timeedit.net/liu/web/schema/s/s.ics?i=60Z956X35Z04Q6Z76g8Y00y6036Y59n04gQY6Q547395Q14"  # URL du fichier ICS original
 LOCAL_ICS = "edt_filtre"           # fichier local
 GIT_COMMIT_MSG = "Mise à jour de l'emploi du temps filtré"
-FILTER_KEYWORD = "Grupp F"             # mot-clé pour filtrer les événements
 # ----------------------------------
 
 # 1️⃣ Télécharger le fichier ICS depuis le lien
