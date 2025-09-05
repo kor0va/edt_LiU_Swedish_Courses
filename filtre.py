@@ -8,7 +8,7 @@ import re
 GIT_PATH = "/usr/bin/git"
 REPO_PATH = "/home/arthur/App/batchs/edt_LiU_Swedish_Courses"  # chemin du repo
 ICS_URL = "https://cloud.timeedit.net/liu/web/schema/s/s.ics?i=60Z956X35Z04Q6Z76g8Y00y6036Y59n04gQY6Q547395Q14"  # URL du fichier ICS original
-LOCAL_ICS = "swedish_A1_tt"          # fichier local
+LOCAL_ICS = "swedish_A1"          # fichier local
 GIT_COMMIT_MSG = "Mise à jour de l'emploi du temps filtré"
 # ----------------------------------
 
