@@ -35,7 +35,7 @@ for component in gcal.walk():
     if component.name == "VEVENT":
         summary = str(component.get('summary'))
         print(summary.lower())
-        match = re.search(r"Grupp (F)", summary.lower())
+        match = re.search(r"grupp (\w)".lower(), summary.lower())
         if match:
             lettre = match.group(1)
             print(lettre)
