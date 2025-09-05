@@ -37,6 +37,7 @@ for component in gcal.walk():
         match = re.search(r"Grupp (\w)", summary.lower())
         if match:
             lettre = match.group(1)
+            print(lettre)
             if lettre not in lettres:
                 lettres.append(lettre)
 lettres.sort()
