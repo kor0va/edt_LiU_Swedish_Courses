@@ -49,7 +49,7 @@ try:
     # Ajouter le fichier
     subprocess.run([GIT_PATH, "-C", REPO_PATH, "add", f"{REPO_PATH}/*"], check=True)
     # Commit
-    subprocess.run([GIT_PATH, "-C", REPO_PATH, "commit", "-m", GIT_COMMIT_MSG], check=True)
+    subprocess.run([GIT_PATH, "-C", REPO_PATH, "commit", "-m", GIT_COMMIT_MSG])
     # Push
     subprocess.run([GIT_PATH, "-C", REPO_PATH, "push"], check=True)
 
