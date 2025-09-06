@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, INTRO
 DTSTART:20250901T151500Z
 DTEND:20250901T170000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3615490--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -16,14 +16,14 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  are: Viktoria Byström \nLärare: Emelie Forsberg \nInformation: Course in
  troduction for all students in Zoom. The Zoom-link you will find in the we
  lcome letter and in Lisam. \nUndervisningstyp: Introduktion\nID 3615490
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20250908T151500Z
 DTEND:20250908T180000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624029--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -31,7 +31,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Helena Aeberhard \nInformation: First class \nUndervisningstyp
  : Lektion \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=iden
  tifier&sharepoi=E0007044:4257\nID 3624029
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20250915T151500Z
 DTEND:20250915T180000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624038--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -48,7 +48,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Helena Aeberhard \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624038
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20250922T151500Z
 DTEND:20250922T180000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624047--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -65,7 +65,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Helena Aeberhard \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624047
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20250929T151500Z
 DTEND:20250929T180000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624056--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -82,7 +82,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Helena Aeberhard \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624056
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20251006T151500Z
 DTEND:20251006T180000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624065--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -99,7 +99,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Helena Aeberhard \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624065
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20251013T151500Z
 DTEND:20251013T180000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624075--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -116,7 +116,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Ann Bergstrand Tybåhl \nUndervisningstyp: Lektion \nKarta: ht
  tps://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007
  044:4257\nID 3624075
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20251020T151500Z
 DTEND:20251020T180000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624085--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -133,7 +133,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Ann Bergstrand Tybåhl \nUndervisningstyp: Lektion \nKarta: ht
  tps://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007
  044:4257\nID 3624085
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20251103T161500Z
 DTEND:20251103T190000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624094--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -150,7 +150,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Ann Bergstrand Tybåhl \nUndervisningstyp: Lektion \nKarta: ht
  tps://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007
  044:4260\nID 3624094
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: Comenius
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4260
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20251110T161500Z
 DTEND:20251110T190000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624103--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -167,7 +167,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Ann Bergstrand Tybåhl \nUndervisningstyp: Lektion \nKarta: ht
  tps://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007
  044:4257\nID 3624103
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20251117T161500Z
 DTEND:20251117T190000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624112--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -184,7 +184,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Ann Bergstrand Tybåhl \nUndervisningstyp: Lektion \nKarta: ht
  tps://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007
  044:4257\nID 3624112
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp B
 DTSTART:20251124T161500Z
 DTEND:20251124T190000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3624121--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -201,7 +201,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Helena Aeberhard \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624121
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -210,14 +210,14 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, TENT\, Grupp B
 DTSTART:20251201T161500Z
 DTEND:20251201T190000Z
-DTSTAMP:20250906T112251Z
+DTSTAMP:20250906T200000Z
 UID:3615492--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
  för utbytesstudenter\, nivå A1 \nKurs: Nybörjarkurs i svenska\, nivå 1
   \nLärare: Ann Bergstrand Tybåhl \nLärare: Helena Aeberhard \nInformati
  on: ORAL EXAM \nUndervisningstyp: Tentamen\nID 3615492
-LAST-MODIFIED:20250906T112251Z
+LAST-MODIFIED:20250906T200000Z
 LOCATION:
 END:VEVENT
 END:VCALENDAR
