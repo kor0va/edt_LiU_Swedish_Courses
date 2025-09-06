@@ -3,14 +3,21 @@ from icalendar import Calendar
 import subprocess
 import os
 import re
-
+from datetime import datetime
 # ------------- CONFIG -------------
 GIT_PATH = "/usr/bin/git"
 REPO_PATH = "/home/arthur/App/batchs/edt_LiU_Swedish_Courses"  # chemin du repo
 ICS_URL = "https://cloud.timeedit.net/liu/web/schema/s/s.ics?i=60Z956X35Z04Q6Z76g8Y00y6036Y59n04gQY6Q547395Q14"  # URL du fichier ICS original
 LOCAL_ICS = "swedish_A1"          # fichier local
 GIT_COMMIT_MSG = "Mise à jour de l'emploi du temps filtré"
+ssh_cmd = '/home/arthur/.ssh/git_key'
 # ----------------------------------
+
+print(f"""
+--------------------------------------------------------------------------------
+{datetime.now()}
+""")
+
 
 # 1️⃣ Télécharger le fichier ICS depuis le lien
 print("Téléchargement du fichier ICS...")
@@ -50,7 +57,7 @@ for lettre in lettres:
         gcal = Calendar.from_ical(f.read())
 
     new_cal = Calendar()
-    new_cal.add('prodid', '-//Agenda filtré//')
+    new_cal.add('prodid', '-//Filtered agenda//')
     new_cal.add('version', '2.0')
 
     for component in gcal.walk():
@@ -71,8 +78,6 @@ for lettre in lettres:
 # 3️⃣ Commit + push automatique sur Git
 print("Synchronisation avec GitHub...")
 try:
-    ssh_cmd = '/home/arthur/.ssh/git_key'
-
     # Ajouter tous les fichiers modifiés
     subprocess.run(
         f"GIT_SSH_COMMAND='ssh -i {ssh_cmd} -o IdentitiesOnly=yes' git -C {REPO_PATH} add {REPO_PATH}/*",
@@ -96,6 +101,5 @@ except subprocess.CalledProcessError as e:
     print("Peut-être qu'il n'y a pas de changements à committer.")
 
 print("Terminé ✅")
-
 
 # 53 16 * * * /usr/bin/python3 /home/arthur/Applis/batchs/edt_LiU_Swedish_Courses/filtre.py >> /home/arthur/Applis/batchs/cron.log 2>&1
