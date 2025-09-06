@@ -63,8 +63,10 @@ for lettre in lettres:
     for component in gcal.walk():
         if component.name == "VEVENT":
             summary = str(component.get('summary'))
-            if f"grupp {lettre.lower()}" in summary.lower():
+            if (f"grupp {lettre.lower()}" in summary.lower()) or (not re.search(r"grupp \w", summary, re.IGNORECASE)):
                 new_cal.add_component(component)
+            if not re.search(r"grupp \w", summary, re.IGNORECASE):
+                print(f"EVENEMENT SANS GROUPE : {component.get('dtstart').dt} /// {component.get('dtend').dt}")
 
     # Écraser le fichier local avec le calendrier filtré
     with open(f"{REPO_PATH}/{LOCAL_ICS}_{lettre.upper()}.ics", "wb") as f:
