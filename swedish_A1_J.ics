@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, INTRO
 DTSTART:20250901T151500Z
 DTEND:20250901T170000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3615490--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -16,14 +16,14 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  are: Viktoria Byström \nLärare: Emelie Forsberg \nInformation: Course in
  troduction for all students in Zoom. The Zoom-link you will find in the we
  lcome letter and in Lisam. \nUndervisningstyp: Introduktion\nID 3615490
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20250902T071500Z
 DTEND:20250902T100000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628195--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -31,7 +31,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nInformation: First class \nUndervisningstyp: Le
  ktion \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=identifi
  er&sharepoi=E0007051:6362\nID 3628195
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: SH62
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007051:6362
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20250909T071500Z
 DTEND:20250909T100000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628199--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -48,7 +48,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:2121\n
  ID 3628199
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: KY21
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:2121
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20250916T071500Z
 DTEND:20250916T100000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628202--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -65,7 +65,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:2231\n
  ID 3628202
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: KY25
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:2231
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20250923T071500Z
 DTEND:20250923T100000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628205--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -82,33 +82,33 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:4257\n
  ID 3628205
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
-DTSTART:20251001T071500Z
-DTEND:20251001T100000Z
-DTSTAMP:20250910T200005Z
+DTSTART:20250930T071500Z
+DTEND:20250930T100000Z
+DTSTAMP:20250911T094937Z
 UID:3628208--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
  för utbytesstudenter\, nivå A1 \nKurs: Nybörjarkurs i svenska\, nivå 1
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
- mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:3202\n
+ mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:3401\n
  ID 3628208
-LAST-MODIFIED:20250910T200005Z
-LOCATION:Lokal: KY31
+LAST-MODIFIED:20250911T094937Z
+LOCATION:Lokal: Garn_broderi
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
- =E0007044:3202
+ =E0007044:3401
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20251007T071500Z
 DTEND:20251007T100000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628211--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -116,7 +116,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:2208\n
  ID 3628211
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: KY24
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:2208
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20251014T071500Z
 DTEND:20251014T100000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628214--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -133,7 +133,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007003:2U4\nI
  D 3628214
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: U3
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007003:2U4
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20251028T081500Z
 DTEND:20251028T110000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628221--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -150,7 +150,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007041:261\nI
  D 3628221
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: I:206
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007041:261
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20251104T081500Z
 DTEND:20251104T110000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628224--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -167,7 +167,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:4257\n
  ID 3628224
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20251111T081500Z
 DTEND:20251111T110000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628218--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -184,7 +184,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007003:2R.6\n
  ID 3628218
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: R6
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007003:2R.6
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp J
 DTSTART:20251118T081500Z
 DTEND:20251118T110000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3628228--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -201,7 +201,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Lektion \nKarta: https://use.
  mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007018:B113\n
  ID 3628228
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: FB113
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007018:B113
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, EX\, Grupp J
 DTSTART:20251119T091500Z
 DTEND:20251119T130000Z
-DTSTAMP:20250910T200005Z
+DTSTAMP:20250911T094937Z
 UID:3693569--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -218,7 +218,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Annika Lejon \nUndervisningstyp: Examination \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:23
  14b\nID 3693569
-LAST-MODIFIED:20250910T200005Z
+LAST-MODIFIED:20250911T094937Z
 LOCATION:Lokal: Metodik_2
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:2314b
