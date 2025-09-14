@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, INTRO
 DTSTART:20250901T151500Z
 DTEND:20250901T170000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3615490--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -16,14 +16,14 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  are: Viktoria Byström \nLärare: Emelie Forsberg \nInformation: Course in
  troduction for all students in Zoom. The Zoom-link you will find in the we
  lcome letter and in Lisam. \nUndervisningstyp: Introduktion\nID 3615490
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20250909T151500Z
 DTEND:20250909T180000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624032--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -31,7 +31,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nInformation: First class \nUndervisningstyp
  : Lektion \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=iden
  tifier&sharepoi=E0007044:4257\nID 3624032
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20250916T151500Z
 DTEND:20250916T180000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624041--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -48,7 +48,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624041
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20250923T151500Z
 DTEND:20250923T180000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624050--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -65,7 +65,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624050
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20250930T151500Z
 DTEND:20250930T180000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624059--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -82,7 +82,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624059
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20251007T151500Z
 DTEND:20251007T180000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624068--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -99,7 +99,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624068
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20251021T151500Z
 DTEND:20251021T180000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624088--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -116,7 +116,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624088
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20251028T161500Z
 DTEND:20251028T190000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624097--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -133,7 +133,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624097
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20251104T161500Z
 DTEND:20251104T190000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624078--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -150,7 +150,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624078
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20251111T161500Z
 DTEND:20251111T190000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624106--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -167,7 +167,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624106
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20251118T161500Z
 DTEND:20251118T190000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624115--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -184,7 +184,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624115
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp E
 DTSTART:20251125T161500Z
 DTEND:20251125T190000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3624124--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -201,7 +201,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Henrik Sundqvist \nUndervisningstyp: Lektion \nKarta: https://
  use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:42
  57\nID 3624124
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -210,14 +210,14 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, TENT\, Grupp E
 DTSTART:20251202T161500Z
 DTEND:20251202T190000Z
-DTSTAMP:20250913T200000Z
+DTSTAMP:20250914T100000Z
 UID:3615495--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
  för utbytesstudenter\, nivå A1 \nKurs: Nybörjarkurs i svenska\, nivå 1
   \nLärare: Henrik Sundqvist \nInformation: ORAL EXAM \nUndervisningstyp: 
  Tentamen\nID 3615495
-LAST-MODIFIED:20250913T200000Z
+LAST-MODIFIED:20250914T100000Z
 LOCATION:
 END:VEVENT
 END:VCALENDAR
