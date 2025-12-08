@@ -3,26 +3,9 @@ VERSION:2.0
 PRODID:-//Filtered agenda//
 BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp F
-DTSTART:20251119T081500Z
-DTEND:20251119T110000Z
-DTSTAMP:20251203T210220Z
-UID:3624116--425816690-0@timeedit.com
-DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
- nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
- för utbytesstudenter\, nivå A1 \nKurs: Nybörjarkurs i svenska\, nivå 1
-  \nLärare: Emelie Forsberg \nUndervisningstyp: Lektion \nKarta: https://u
- se.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:320
- 2\nID 3624116
-LAST-MODIFIED:20251203T210220Z
-LOCATION:Lokal: KY31
-URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
- =E0007044:3202
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp F
 DTSTART:20251126T081500Z
 DTEND:20251126T110000Z
-DTSTAMP:20251203T210220Z
+DTSTAMP:20251208T122143Z
 UID:3624125--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -30,7 +13,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Emelie Forsberg \nUndervisningstyp: Lektion \nKarta: https://u
  se.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:320
  2\nID 3624125
-LAST-MODIFIED:20251203T210220Z
+LAST-MODIFIED:20251208T122143Z
 LOCATION:Lokal: KY31
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:3202
@@ -39,28 +22,28 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, TENT\, Grupp F
 DTSTART:20251203T081500Z
 DTEND:20251203T110000Z
-DTSTAMP:20251203T210220Z
+DTSTAMP:20251208T122143Z
 UID:3615496--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
  för utbytesstudenter\, nivå A1 \nKurs: Nybörjarkurs i svenska\, nivå 1
   \nLärare: Emelie Forsberg \nInformation: ORAL EXAM \nUndervisningstyp: T
  entamen\nID 3615496
-LAST-MODIFIED:20251203T210220Z
+LAST-MODIFIED:20251208T122143Z
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:714G93\, THSV08\, TENT
 DTSTART:20251204T071500Z
 DTEND:20251204T160000Z
-DTSTAMP:20251203T210220Z
+DTSTAMP:20251208T122143Z
 UID:3639924--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter – nivå B1:1 \nKurs:
   Nybörjarkurs i svenska\, nivå 1 \nLärare: Viktoria Byström \nInformat
  ion: Oral exam \nUndervisningstyp: Tentamen \nKarta: https://use.mazemap.c
  om/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:4117b\nID 36399
  24
-LAST-MODIFIED:20251203T210220Z
+LAST-MODIFIED:20251208T122143Z
 LOCATION:Lokal: KG43
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4117b
