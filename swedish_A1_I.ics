@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, LE\, Grupp I
 DTSTART:20251127T161500Z
 DTEND:20251127T190000Z
-DTSTAMP:20251211T122043Z
+DTSTAMP:20251211T220742Z
 UID:3624128--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -13,7 +13,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Viktoria Byström \nUndervisningstyp: Lektion \nKarta: https:/
  /use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:4
  257\nID 3624128
-LAST-MODIFIED:20251211T122043Z
+LAST-MODIFIED:20251211T220742Z
 LOCATION:Lokal: SVUS lärosal
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4257
@@ -22,14 +22,14 @@ BEGIN:VEVENT
 SUMMARY:714G93\, THSV08\, TENT
 DTSTART:20251204T071500Z
 DTEND:20251204T160000Z
-DTSTAMP:20251211T122043Z
+DTSTAMP:20251211T220742Z
 UID:3639924--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter – nivå B1:1 \nKurs:
   Nybörjarkurs i svenska\, nivå 1 \nLärare: Viktoria Byström \nInformat
  ion: Oral exam \nUndervisningstyp: Tentamen \nKarta: https://use.mazemap.c
  om/?campusid=742&sharepoitype=identifier&sharepoi=E0007044:4117b\nID 36399
  24
-LAST-MODIFIED:20251211T122043Z
+LAST-MODIFIED:20251211T220742Z
 LOCATION:Lokal: KG43
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4117b
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:714G37\, 8FG058\, 921G31\, THSV08\, TENT\, Grupp I
 DTSTART:20251204T161500Z
 DTEND:20251204T190000Z
-DTSTAMP:20251211T122043Z
+DTSTAMP:20251211T220742Z
 UID:3615499--425816690-0@timeedit.com
 DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
  nska för utländska studenter\, nivå A1 \nKurs: Nybörjarkurs i svenska 
@@ -46,7 +46,7 @@ DESCRIPTION:Kurs: Svenska för utländska studenter\, nivå A1 \nKurs: Sve
   \nLärare: Viktoria Byström \nInformation: ORAL EXAM \nUndervisningstyp:
   Tentamen \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=iden
  tifier&sharepoi=E0007044:4117b\nID 3615499
-LAST-MODIFIED:20251211T122043Z
+LAST-MODIFIED:20251211T220742Z
 LOCATION:Lokal: KG43
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi
  =E0007044:4117b
